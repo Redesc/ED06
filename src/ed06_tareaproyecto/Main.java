@@ -15,7 +15,7 @@ public class Main {
     }
 
     private static void imprimir_emp() {
-        Empleado empleado1 = new Empleado("1245678M","Perico de los Palotes");
+        Empleado empleado1 = new Empleado("1245678M","Manolo");
         
         empleado1.setDireccion("C/del Pez,6");
         empleado1.numHijos=3;
